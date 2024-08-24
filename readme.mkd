@@ -1,0 +1,39 @@
+# Hotel Izlet
+## Un proyecto de sitio web para un hotel llamado Izlet, diseñado con HTML, CSS y Bootstrap.
+
+### Descripción
+Este proyecto es un sitio web para un hotel llamado Izlet, que ofrece una experiencia de alojamiento y servicios de alta calidad. El sitio web está diseñado para ser responsivo y fácil de navegar, con una interfaz intuitiva y atractiva.
+
+### Características
+* Diseño responsivo y adaptable a diferentes dispositivos y tamaños de pantalla
+* Interfaz intuitiva y fácil de navegar
+* Información detallada sobre el hotel y sus servicios
+* Sección de contacto con formulario de contacto y mapa de ubicación
+* Enlaces a redes sociales para conectarse con el hotel
+* Diseño moderno y atractivo
+
+### Tecnologías utilizadas
+* HTML5
+* CSS3
+* Bootstrap 5
+* Font Awesome
+
+### Estructura del proyecto
+El proyecto está estructurado de la siguiente manera:
+* `index.html`: archivo principal del sitio web
+* `css/`: carpeta que contiene los archivos CSS del proyecto
+* `img/`: carpeta que contiene las imágenes del proyecto
+* `js/`: carpeta que contiene los archivos JavaScript del proyecto
+
+### Uso
+Para utilizar este proyecto, simplemente clone el repositorio y abra el archivo `index.html` en un navegador. También puede personalizar el proyecto según sus necesidades.
+
+### Créditos
+Diseñado por JmiDev
+
+### Enlaces  
+* Repositorio en GitHub: https://github.com/juanmanuel-dev/hotel-izlet.git
+* Sitio web en vivo: https://hotel-izlet.vercel.app/index.html
+
+### Contribuciones
+Las contribuciones son bienvenidas. Si desea contribuir al proyecto, por favor, envíe un pull request con sus cambios.
